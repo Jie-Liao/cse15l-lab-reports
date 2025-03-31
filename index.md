@@ -8,3 +8,5 @@ Things need to be done:
      * Teaching
      * Awards
      * Fun facts? + Others
+  3. Profile image
+  ![Profile Image](./profile-pic.jpg)
